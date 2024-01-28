@@ -12,7 +12,7 @@
 <h2> 🤳 Connect with me:</h2>
  
 <img align="left" alt="yourname | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-<img align="left" alt="yourname | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="yourname | LinkedIn" width="22px" src="www.linkedin.com/in/jonathanlsimmons/" />
  
 [X]: https://twitter.com/
 [instagram]: https://www.instagram.com/
