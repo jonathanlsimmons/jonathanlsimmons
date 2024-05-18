@@ -7,7 +7,7 @@
   
 <h2>📜 Certifications:</h2>
  
-Qualys Cybersecurity Asset Management(https://github.com/jonathanlsimmons/Certifications/blob/main/CSAM%20-coursecompletion.pdf)
+-Qualys Cybersecurity Asset Management
     
 <h2> 🤳 Connect with me:</h2>
  
