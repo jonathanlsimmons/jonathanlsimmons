@@ -5,7 +5,7 @@
 - [Creating a Honeynet](Link)
 - [Microsoft Sentinel]
   
-<h2>📜 Certifications:</h2>
+<h2>📜 Qualys Certifications:</h2>
  
 - [Qualys Cybersecurity Asset Management](https://github.com/jonathanlsimmons/Certifications/blob/main/CSAM%20-coursecompletion.pdf)
 - [Qualys Patch Management](https://github.com/jonathanlsimmons/Certifications/blob/main/Patch%20Management%20completion.pdf)
