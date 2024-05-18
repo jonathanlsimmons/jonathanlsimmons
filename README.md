@@ -20,7 +20,7 @@
 
 <h2>📃 Certificates </h2>
 
-- [Paul D. Camp - Cyber Security and Networking Certificate]
+- [Paul D. Camp Community College - Cyber Security and Networking Certificate]
     
 <h2> 🤳 Connect with me:</h2>
  
