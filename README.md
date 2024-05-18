@@ -8,6 +8,13 @@
 <h2>📜 Certifications:</h2>
  
 - [Qualys Cybersecurity Asset Management](https://github.com/jonathanlsimmons/Certifications/blob/main/CSAM%20-coursecompletion.pdf)
+- [Qualys Patch Management](https://github.com/jonathanlsimmons/Certifications/blob/main/Patch%20Management%20completion.pdf)
+- [Qualys Vulnerability Management Detection & Response(VMDR)](https://github.com/jonathanlsimmons/Certifications/blob/main/VMDR%20coursecompletion.pdf)
+- [Qualys Reporting Strategies and Best Practices](https://github.com/jonathanlsimmons/Certifications/blob/main/Qualys%20RSBP%20Exam%20completion.pdf)
+- [Qualys Scanning Strategies and Best Practices](https://github.com/jonathanlsimmons/Certifications/blob/main/Scanning%20Strategies%20and%20Best%20Practices%20completion.pdf)
+- [Qualys Web Application Scanning](https://github.com/jonathanlsimmons/Certifications/blob/main/Web%20Application%20Scanning%20-%20coursecompletion.pdf)
+- [Qualys PCI Compliance](https://github.com/jonathanlsimmons/Certifications/blob/main/PCI-Compliance%20-%20coursecompletion.pdf)
+- [Qualys Policy Compliance](https://github.com/jonathanlsimmons/Certifications/blob/main/Policy%20Compliance%20-%20coursecompletion.pdf)
     
 <h2> 🤳 Connect with me:</h2>
  
