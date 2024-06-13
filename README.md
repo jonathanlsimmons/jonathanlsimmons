@@ -22,6 +22,7 @@
 <h2>📃 Certificates </h2>
 
 - [Paul D. Camp Community College - Cyber Security and Networking Certificate](https://github.com/jonathanlsimmons/certificates/blob/main/Cyber%20Security%20and%20Network.jpg)
+- [Network +](https://github.com/jonathanlsimmons/certificates/blob/main/CompTIA%20Network%2B%20ce%20certificate.pdf)
     
 <h2> 🤳 Connect with me:</h2>
  
