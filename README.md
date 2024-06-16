@@ -2,8 +2,6 @@
  
 <h2>🛡️ Information Security Projects</h2>
  
-- [Creating a Honeynet](Link)
-- [Microsoft Sentinel]
 - [Incident Response Playbooks](https://github.com/jonathanlsimmons/incident-response-playbook/blob/main/Incident%20Response%20Playbooks%20f63d3f7e6e5a4cd7bead0d58ffc90f6e.md)
   
 <h2>📜 Certifications:</h2>
